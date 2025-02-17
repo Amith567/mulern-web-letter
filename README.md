@@ -1,2 +1,2 @@
 # mulern-web-letter
-[Link :](https://amith567.github.io/mulern-web-letter "link ")
+[Click to visit :](https://amith567.github.io/mulern-web-letter )
